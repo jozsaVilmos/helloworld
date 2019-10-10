@@ -1,7 +1,7 @@
 pipeline {
     environment {
       registry = 'trinity99/helloworld'
-      registryCredential = 'trinity99'
+      registryCredential = 'd502108d-bdfa-4afb-a662-ac4a06833f85'
       dockerImage = ''
     }
     agent any
